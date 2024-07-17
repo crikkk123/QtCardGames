@@ -1,0 +1,2 @@
+# QtCardGames
+CardGames
